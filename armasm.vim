@@ -511,6 +511,10 @@ syn keyword armasmOpcode	SWI SWIEQ SWINE SWICS SWIHS SWICC SWILO
 syn keyword armasmOpcode	SWIMI SWIPL SWIVS SWIVC SWIHI SWILS
 syn keyword armasmOpcode	SWIGE SWILT SWIGT SWILE SWIAL
 
+syn keyword armasmOpcode	SVC SVCEQ SVCNE SVCCS SVCHS SVCCC SVCLO
+syn keyword armasmOpcode	SVCMI SVCPL SVCVS SVCVC SVCHI SVCLS
+syn keyword armasmOpcode	SVCGE SVCLT SVCGT SVCLE SVCAL
+
 syn keyword armasmOpcode	BKPT
 
 syn keyword armasmOpcode	NEG LSL LSR ASR ROR RRX PUSH POP
